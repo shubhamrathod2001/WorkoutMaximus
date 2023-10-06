@@ -5,13 +5,13 @@
 ![**Home Page**](images/AllWorkouts.png)
 
 ### SignUp Page
-
+![**SignUp Page**](images/signupWorkout.png)
 
 ### Login Page
-
+![**Login Page**](images/loginWorkout.png)
 
 ### AddWorkout
-
+![**New Workout**](images/AddWorkout.png)
 
 ## Built with
 - React for frontend
